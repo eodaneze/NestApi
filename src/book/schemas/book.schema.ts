@@ -1,6 +1,6 @@
 import { Prop, Schema, SchemaFactory } from "@nestjs/mongoose";
 
-export const enum Category {
+export enum Category {
     ADVENTURE = 'Adventure',
     CLASSICS = 'Classics',
     CRIME = 'Crime',
